@@ -1,4 +1,4 @@
-#include <MIDI.h>
+include <MIDI.h>
 
 int timeRunning;
 
